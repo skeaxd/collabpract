@@ -1,4 +1,7 @@
 def Hello():
-    print('Good morning')
+    print('Доброе утро')
 Hello()
 
+def Hello_day():
+    print('Добрый день')
+Hello_day()
